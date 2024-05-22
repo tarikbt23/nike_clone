@@ -186,7 +186,7 @@ const Header = () => {
             </div>
             <div className='flex items-center group space-x-2 hover:text-orange-400'>
               <MdOutlineFavoriteBorder className='text-3xl'/>
-              <Link href='' className='font-normal'>Favoriler</Link>
+              <Link href='/Review' className='font-normal'>Favoriler</Link>
             </div>
             <div className='flex items-center group space-x-2 hover:text-orange-400'>
               <IoCartOutline className='text-3xl'/>
